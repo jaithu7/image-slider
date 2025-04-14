@@ -1,0 +1,2 @@
+# image-slider
+WEB DEVELOPMENT TASK2
